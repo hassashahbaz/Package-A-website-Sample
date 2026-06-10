@@ -1,8 +1,8 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
 <!-- Page Header -->
 <div class="hero" style="height: 50vh;">
-    <div class="hero-bg" style="background-image: url('images/menu_bg.png');" onerror="this.style.backgroundImage='url(\'https://images.unsplash.com/photo-1414235077428-33898ed1e830?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80\')'"></div>
+    <div class="hero-bg" style="background-image: url('menu_bg.png');" onerror="this.style.backgroundImage='url(\'https://images.unsplash.com/photo-1414235077428-33898ed1e830?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80\')'"></div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
         <h1>Our Menu</h1>
@@ -96,4 +96,4 @@
     </div>
 </section>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
