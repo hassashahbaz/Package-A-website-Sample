@@ -1,8 +1,8 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
 <!-- Page Header -->
 <div class="hero" style="height: 50vh;">
-    <div class="hero-bg" style="background-image: url('images/about_bg.png');" onerror="this.style.backgroundImage='url(\'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80\')'"></div>
+    <div class="hero-bg" style="background-image: url('about_bg.png');" onerror="this.style.backgroundImage='url(\'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80\')'"></div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
         <h1>About Us</h1>
@@ -18,7 +18,7 @@
             <p style="color: #ccc;">Every dish we serve is a testament to our commitment to quality, sustainability, and innovation. We partner with local farmers and artisans to ensure the freshest ingredients make it to your plate.</p>
         </div>
         <div>
-            <img src="images/restaurant.png" alt="Restaurant Interior" class="about-img" onerror="this.src='https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
+            <img src="restaurant.png" alt="Restaurant Interior" class="about-img" onerror="this.src='https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
         </div>
     </div>
 </section>
@@ -31,7 +31,7 @@
             <p style="color: #ccc;">"My goal is not just to feed people, but to evoke emotion through food. Every element on the plate must serve a purpose, contributing to a harmonious and unforgettable dining experience."</p>
         </div>
         <div style="order: 1;">
-            <img src="images/chef.png" alt="Executive Chef" class="about-img" onerror="this.src='https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
+            <img src="chef.png" alt="Executive Chef" class="about-img" onerror="this.src='https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
         </div>
     </div>
 </section>
@@ -45,4 +45,4 @@
     </div>
 </section>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
